@@ -1,6 +1,4 @@
-# ClawHub Publish Card — RAAI Content Master PRO
-
-**Display name:** RAAI Content Master PRO
+# ClawHub Publish Card — RAAI Content Master PRO **Display name:** RAAI Content Master PRO
 **Slug:** raai-content-master-pro
 **Category:** Skill
 **One-line outcome:** Stop losing time and budget on chaotic content.
