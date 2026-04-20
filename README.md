@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cover.svg" alt="cover" width="100%" />
+</p>
+
 # RAAI Content Master PRO v3.5.1
 
 **Full-cycle content marketing skill for Russian-speaking businesses.**
