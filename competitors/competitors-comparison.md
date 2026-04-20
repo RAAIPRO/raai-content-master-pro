@@ -6,7 +6,7 @@
 
 ## Конкурент 1: content-marketing by @ivangdavila
 
-**✅ verified** | URL: https://clawhub.ai/ivangdavila/content-marketing  
+**✅ verified** | URL: https://clawhub.ai/ivangdavila/content-marketing 
 **Загрузок:** 3 400 | **Звёзды:** 0 | **Версия:** v1.0.0 | **Цена:** бесплатно
 
 **Что делает:** Контент-стратегия, редакционные календари, выравнивание по воронке TOFU/MOFU/BOFU, репурпозинг. Хранит данные локально в `~/content-marketing/`.
@@ -38,8 +38,8 @@
 
 ## Конкурент 2: cs-social-content by @alirezarezvani
 
-**✅ verified** | URL: https://clawhub.ai/alirezarezvani/cs-social-content  
-**Загрузок:** 797 | **Звёзды:** 1 | **Версия:** v1.0.0 | **Цена:** бесплатно  
+**✅ verified** | URL: https://clawhub.ai/alirezarezvani/cs-social-content 
+**Загрузок:** 797 | **Звёзды:** 1 | **Версия:** v1.0.0 | **Цена:** бесплатно 
 **Флаг безопасности:** Suspicious medium confidence (читает .claude/product-marketing-context.md, инструкции по скрейпу через Apify/PhantomBuster)
 
 **Что делает:** Создаёт, планирует и оптимизирует контент для LinkedIn, Twitter/X, Instagram, TikTok, Facebook.
@@ -70,8 +70,8 @@
 
 ## Конкурент 3: dellight-content-marketing by @arthurelgindell
 
-**✅ verified** | URL: https://clawhub.ai/arthurelgindell/dellight-content-marketing  
-**Загрузок:** 1 600 | **Звёзды:** 0 | **Версия:** v1.0.0 | **Цена:** бесплатно  
+**✅ verified** | URL: https://clawhub.ai/arthurelgindell/dellight-content-marketing 
+**Загрузок:** 1 600 | **Звёзды:** 0 | **Версия:** v1.0.0 | **Цена:** бесплатно 
 **Флаг безопасности:** Suspicious medium confidence (ссылается на WaveSpeed/ElevenLabs без credentials)
 
 **Что делает:** CMO-операции для DELLIGHT.AI — контент для LinkedIn, клонирование голоса через ElevenLabs, AI-видеогенерация через WaveSpeed/Sora/Kling.

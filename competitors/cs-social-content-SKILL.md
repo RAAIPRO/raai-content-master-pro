@@ -1,12 +1,12 @@
 # cs-social-content — ClawHub SKILL.md (скачано с clawhub.ai)
 
-**Источник:** https://clawhub.ai/alirezarezvani/cs-social-content  
-**Автор:** @alirezarezvani (Alireza Rezvani)  
-**Версия:** v1.0.0  
-**Загрузок:** 797  
-**Звёзды:** 1  
-**Статус безопасности:** Suspicious medium confidence (OpenClaw — читает локальный файл .claude/product-marketing-context.md, инструкции по скрейпингу через Apify/PhantomBuster)  
-**Цена:** бесплатно  
+**Источник:** https://clawhub.ai/alirezarezvani/cs-social-content 
+**Автор:** @alirezarezvani (Alireza Rezvani) 
+**Версия:** v1.0.0 
+**Загрузок:** 797 
+**Звёзды:** 1 
+**Статус безопасности:** Suspicious medium confidence (OpenClaw — читает локальный файл .claude/product-marketing-context.md, инструкции по скрейпингу через Apify/PhantomBuster) 
+**Цена:** бесплатно 
 
 ---
 

@@ -2,7 +2,7 @@
 
 All notable changes to this box are documented here.
 
-## v3.5.3 — 2026-04-20
+## — 2026-04-20
 
 ### Fixed
 - Removed outdated public references from the package.

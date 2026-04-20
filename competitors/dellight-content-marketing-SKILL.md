@@ -1,13 +1,13 @@
 # dellight-content-marketing — ClawHub SKILL.md (скачано с clawhub.ai)
 
-**Источник:** https://clawhub.ai/arthurelgindell/dellight-content-marketing  
-**Автор:** @arthurelgindell (DELLIGHT / Arthur Dell)  
-**Версия:** v1.0.0  
-**Загрузок:** 1.6k  
-**Звёзды:** 0  
-**Статус безопасности:** Suspicious medium confidence (OpenClaw — ссылается на WaveSpeed/ElevenLabs/Gemini/GPT Image без объявления credentials)  
-**Цена:** бесплатно  
-**Дубликат:** arthurelgindell/dellight-cmo-content-marketing  
+**Источник:** https://clawhub.ai/arthurelgindell/dellight-content-marketing 
+**Автор:** @arthurelgindell (DELLIGHT / Arthur Dell) 
+**Версия:** v1.0.0 
+**Загрузок:** 1.6k 
+**Звёзды:** 0 
+**Статус безопасности:** Suspicious medium confidence (OpenClaw — ссылается на WaveSpeed/ElevenLabs/Gemini/GPT Image без объявления credentials) 
+**Цена:** бесплатно 
+**Дубликат:** arthurelgindell/dellight-cmo-content-marketing 
 
 ---
 

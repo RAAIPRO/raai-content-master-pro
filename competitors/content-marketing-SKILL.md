@@ -1,12 +1,12 @@
 # content-marketing — ClawHub SKILL.md (скачано с clawhub.ai)
 
-**Источник:** https://clawhub.ai/ivangdavila/content-marketing  
-**Автор:** @ivangdavila (Iván)  
-**Версия:** v1.0.0  
-**Загрузок:** 3.4k  
-**Звёзды:** 0  
-**Статус безопасности:** Benign (OpenClaw + VirusTotal)  
-**Цена:** бесплатно  
+**Источник:** https://clawhub.ai/ivangdavila/content-marketing 
+**Автор:** @ivangdavila (Iván) 
+**Версия:** v1.0.0 
+**Загрузок:** 3.4k 
+**Звёзды:** 0 
+**Статус безопасности:** Benign (OpenClaw + VirusTotal) 
+**Цена:** бесплатно 
 
 ---
 
@@ -23,10 +23,10 @@ User needs help with content strategy, editorial planning, blog posts, social me
 Локальное хранение (с согласия пользователя):
 ```
 ~/content-marketing/
-├── memory.md           # Strategy, voice, goals
-├── calendar.md         # Editorial calendar
-├── content-bank/       # Drafts and ideas
-└── analytics/          # Performance notes
+├── memory.md      # Strategy, voice, goals
+├── calendar.md     # Editorial calendar
+├── content-bank/    # Drafts and ideas
+└── analytics/     # Performance notes
 ```
 
 ## Основные правила (7 штук)

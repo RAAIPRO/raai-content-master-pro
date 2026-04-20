@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/cover.svg" alt="cover" width="100%" />
+ <img src="assets/cover.svg" alt="cover" width="100%" />
 </p>
 
-# RAAI Content Master PRO v3.5.3
+# RAAI Content Master PRO
 
 **Stop losing time and budget on chaotic content.**
 Full-cycle content marketing skill for Russian-speaking businesses: strategy, SEO structure, funnel content, email sequences, and reporting from one install-ready box.
@@ -23,8 +23,8 @@ Full-cycle content marketing skill for Russian-speaking businesses: strategy, SE
 - **After:** one repeatable content system with plan, assets, analytics, and email sequences.
 - **Payback:** typically **4–6 days** at 2 000–3 000 ₽/hour.
 
-**Price:** 30 000 ₽  
-**Market:** Russian-speaking SMB / service business / founder-led teams  
+**Price:** 30 000 ₽ 
+**Market:** Russian-speaking SMB / service business / founder-led teams 
 **Setup time:** ~15 minutes
 **CTA:** Install yourself or hire RAAI to deploy it for your business.
 
@@ -315,31 +315,31 @@ More setup help: [examples/quick-start.md](examples/quick-start.md)
 
 ```text
 content-master-pro/
-├── SKILL.md                — основной файл скилла (10 режимов + 5 use-cases)
-├── README.md               — этот файл
-├── config.yaml             — глубокая настройка под бизнес клиента
+├── SKILL.md        — основной файл скилла (10 режимов + 5 use-cases)
+├── README.md        — этот файл
+├── config.yaml       — глубокая настройка под бизнес клиента
 ├── examples/
-│   ├── example_prompts.md  — индекс всех product demos
-│   ├── 01_content_strategy.md
-│   ├── 02_monthly_plan.md
-│   ├── 03_seo_core.md
-│   ├── 04_post_case.md
-│   ├── 05_rewrite_5_formats.md
-│   ├── 06_competitor_analysis.md
-│   ├── 07_ab_headlines.md
-│   ├── 08_content_funnel.md
-│   ├── 09_content_report.md
-│   └── 10_email_welcome.md
+│  ├── example_prompts.md — индекс всех product demos
+│  ├── 01_content_strategy.md
+│  ├── 02_monthly_plan.md
+│  ├── 03_seo_core.md
+│  ├── 04_post_case.md
+│  ├── 05_rewrite_5_formats.md
+│  ├── 06_competitor_analysis.md
+│  ├── 07_ab_headlines.md
+│  ├── 08_content_funnel.md
+│  ├── 09_content_report.md
+│  └── 10_email_welcome.md
 ├── proof/
-│   ├── case-01-chaos-to-strategy.md
-│   ├── case-02-no-seo-to-organic.md
-│   ├── case-03-time-reduction.md
-│   ├── case-04-email-reactivation.md
-│   └── case-05-funnel-conversion.md
+│  ├── case-01-chaos-to-strategy.md
+│  ├── case-02-no-seo-to-organic.md
+│  ├── case-03-time-reduction.md
+│  ├── case-04-email-reactivation.md
+│  └── case-05-funnel-conversion.md
 └── docs/
-    ├── roi.md              — ROI и экономическое обоснование
-    ├── onboarding.md       — путь внедрения: день 1 → квартал 1
-    └── anti-fail.md        — ограничения и честные границы продукта
+  ├── roi.md       — ROI и экономическое обоснование
+  ├── onboarding.md    — путь внедрения: день 1 → квартал 1
+  └── anti-fail.md    — ограничения и честные границы продукта
 ```
 
 ---
@@ -367,6 +367,6 @@ content-master-pro/
 
 ---
 
-**Контент-мастер PRO v3.5.3** | Продукт RAAI
+**Контент-мастер PRO** | Продукт RAAI
 Методологии: PESO, Content Matrix, Keyword Clustering, Content Funnel, Email Marketing
 Для маркетологов и собственников с 3+ каналами контента | 30 000 руб
