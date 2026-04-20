@@ -1,22 +1,35 @@
-# Контент-мастер PRO v3.5
+# RAAI Content Master PRO v3.5.1
 
-## Quick Start — установка за 15 минут
+**Full-cycle content marketing skill for Russian-speaking businesses.**
+Build strategy, monthly plan, SEO core, funnel content, email sequences, and reporting from one install-ready box.
 
-1. Распакуйте архив / скачайте папку
-2. `bash install.sh` — автоустановщик скопирует файлы в `~/.openclaw/skills/content-master-pro/`
-3. Заполните 5 полей в `config.yaml` (business.name, business.niche, channels.telegram)
-4. `bash test/smoke-test.sh` — убедитесь что всё OK
-5. Напишите боту: `стратегия контента для [ваша ниша]`
+## Use when
+- content is already being produced, but there is no system;
+- the team runs 3+ channels and rewrites everything from scratch;
+- founders or marketers need strategy + production + analytics in one workflow.
 
-Подробнее: [examples/quick-start.md](examples/quick-start.md)
+## What you get
+- content strategy with positioning and tone of voice;
+- monthly plan for 3+ channels;
+- SEO core and topic clusters;
+- TOFU / MOFU / BOFU content funnel;
+- 5 proof cases with ruble-denominated ROI.
 
----
+**Price:** 30 000 ₽  
+**Market:** Russian-speaking SMB / service business / founder-led teams  
+**Setup time:** ~15 minutes
 
-**Контент-машина для бизнеса за 30 дней.**
+## Quick Start
 
-Не генератор постов, не "напиши мне текст" и не очередной AI-копирайтер. Контент-мастер PRO — это готовая система контент-маркетинга полного цикла: от стратегии и TOV до воронки, аналитики и email-цепочек. Для маркетологов и собственников, у которых контент уже есть — но не работает как система.
+```bash
+bash install.sh
+bash test/smoke-test.sh
+```
 
-**Цена: 30 000 руб.**
+Then open `config.yaml`, fill the required fields, and run the first trigger:
+`content strategy for [your niche]`
+
+More setup help: [examples/quick-start.md](examples/quick-start.md)
 
 ---
 
