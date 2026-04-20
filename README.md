@@ -2,7 +2,7 @@
   <img src="assets/cover.svg" alt="cover" width="100%" />
 </p>
 
-# RAAI Content Master PRO v3.5.1
+# RAAI Content Master PRO v3.5.2
 
 **Stop losing time and budget on chaotic content.**
 Full-cycle content marketing skill for Russian-speaking businesses: strategy, SEO structure, funnel content, email sequences, and reporting from one install-ready box.
@@ -367,6 +367,6 @@ content-master-pro/
 
 ---
 
-**Контент-мастер PRO v3.5.1** | Продукт RAAI
+**Контент-мастер PRO v3.5.2** | Продукт RAAI
 Методологии: PESO, Content Matrix, Keyword Clustering, Content Funnel, Email Marketing
 Для маркетологов и собственников с 3+ каналами контента | 30 000 руб

@@ -4,7 +4,7 @@
 #
 # Использование:
 #   ./build.sh                    # собрать на основе version из SKILL.md
-#   ./build.sh 3.5.1              # собрать с конкретной версией (override)
+#   ./build.sh 3.5.2              # собрать с конкретной версией (override)
 #
 # Выход: ../zips-v<VER>/content-master-pro-v<VER>.zip
 

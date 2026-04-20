@@ -2,6 +2,16 @@
 
 All notable changes to this box are documented here.
 
+## v3.5.2 — 2026-04-20
+
+### Fixed
+- Removed stale public references to sold/internal `raaipro.com` domains and subdomains.
+- Removed stale `v3.3` labels from public package content.
+- Removed internal file `config_raai.yaml` from public package.
+
+### Changed
+- Version synchronized to `3.5.2` across the package for repair release after public scrub.
+
 ## v3.5.1 — 2026-04-20
 
 ### Added
