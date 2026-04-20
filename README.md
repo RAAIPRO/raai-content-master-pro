@@ -362,11 +362,11 @@ content-master-pro/
 ## Поддержка
 
 **RAAI** — автоматизация бизнеса через AI
-- Командный центр: https://cc.raaipro.com
+- Командный центр: [internal command center removed]
 - Telegram: @NATA_RA_AI
 
 ---
 
-**Контент-мастер PRO v3.3** | Продукт RAAI
+**Контент-мастер PRO v3.5.1** | Продукт RAAI
 Методологии: PESO, Content Matrix, Keyword Clustering, Content Funnel, Email Marketing
 Для маркетологов и собственников с 3+ каналами контента | 30 000 руб
