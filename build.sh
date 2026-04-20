@@ -4,7 +4,7 @@
 #
 # Использование:
 #  ./build.sh          # собрать на основе version из SKILL.md
-#  ./build.sh 3.5.3       # собрать с конкретной версией (override)
+#  ./build.sh       # собрать package
 #
 # Выход: ../zips-v<VER>/content-master-pro-v<VER>.zip
 
@@ -54,7 +54,7 @@ FILES=(
 
 # Опциональные (включаются если существуют)
 OPTIONAL=(
- config_raai.yaml
+ 
  docs/competitors-comparison.md
  proof/dogfooding-RAAI.md
  proof/A1_content_strategy_raai_2026-04-17.md
