@@ -186,3 +186,7 @@ content-master-pro/
 - Telegram: @NATA_RA_AI --- **Контент-мастер PRO** | Продукт RAAI
 Методологии: PESO, Content Matrix, Keyword Clustering, Content Funnel, Email Marketing
 Для маркетологов и собственников с 3+ каналами контента | 30 000 руб
+
+## Download History
+
+[![Download History](https://skill-history.com/chart/raaipro/raai-content-master-pro.svg)](https://skill-history.com/raaipro/raai-content-master-pro)
